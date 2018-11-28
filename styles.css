@@ -1,0 +1,18 @@
+
+
+
+p {
+  color: #666666;
+}
+
+a:hover {
+  color: red;
+}
+
+h1 {
+  font-size: 100px;
+}
+
+.bears {
+  display: inline-block;
+}
